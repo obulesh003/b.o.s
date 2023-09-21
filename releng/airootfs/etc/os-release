@@ -1,0 +1,14 @@
+NAME="bos OS"
+PRETTY_NAME="bos OS"
+ID=bos
+BUILD_ID=rolling
+VERSION_ID=stable
+ANSI_COLOR="38;2;255;230;0"
+HOME_URL="https:"
+DOCUMENTATION_URL="https://github.com/Athena-OS/athena-iso/wiki"
+SUPPORT_URL="https://bbs.archlinux.org"
+BUG_REPORT_URL="https://github.com/bos/issues"
+PRIVACY_POLICY_URL="https://github.com/bos"
+LOGO=athena-hello-logo
+IMAGE_ID=athena
+IMAGE_VERSION=2023.061
